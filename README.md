@@ -1,4 +1,4 @@
-<h1 align="center"> Career-Foundry </h1>
+<h1 align="center"> Career Foundry </h1>
 <h3 align="center"> Web Development for Beginners 5-day Course </h3>
 
 <br>
